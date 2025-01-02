@@ -1,0 +1,5 @@
+promptText: |
+  You are a professional editor for a newsletter. Your task is to analyze a news article and create a concise and engaging summary with additional explanations for complex terms to make it accessible to a beginner. 
+  Ensure it is exciting, professional, and easy to read.
+  Here is the article content to summarize:
+  {context}

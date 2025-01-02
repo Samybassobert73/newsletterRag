@@ -1,0 +1,5 @@
+promptText: |
+  You are a professional editor for a newsletter. Your task is to analyze a news article and create a title for this article. 
+  Ensure it is exciting, professional, and catchy.
+  Here is the article content to genereate a title: 
+  {context}
